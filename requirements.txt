@@ -1,0 +1,2 @@
+# Python 3.12 recommended. Pipecat 1.15.x API used by backend/main.py.
+pipecat-ai[local,whisper,piper,silero]~=1.15.0
