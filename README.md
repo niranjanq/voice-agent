@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local AI Clinic Receptionist (Modular Python Architecture)
 
 A fully local voice demonstration using Pipecat 1.15.0, Faster-Whisper, Ollama (Qwen2.5 1.5B), Piper TTS, and Silero VAD.
@@ -148,3 +149,7 @@ When the caller says an explicit departure phrase, the system deterministically 
 - **Address**: 12 Demo Road, Bengaluru
 - **Consultation Fee**: 500 rupees
 - **Appointment Policy**: Demonstration request only; no appointments are booked, calendars checked, or medical advice provided.
+=======
+# voice-agent
+A modular, locally hosted AI voice agent built with Python and Pipecat, integrating Whisper for speech recognition, Ollama for LLM inference, and Piper for text-to-speech. Supports real-time voice conversations with open-source technologies.
+>>>>>>> 58e6ad21fd21f814fc0f79fa024311dda757a902
